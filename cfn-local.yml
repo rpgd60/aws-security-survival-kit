@@ -42,6 +42,7 @@ Resources:
             - "StopLogging"
             - "DeleteTrail"
             - "UpdateTrail"
+            - "StartLogging"
 
   EventRuleExfilDisk:
     Type: "AWS::Events::Rule"
